@@ -2,7 +2,7 @@
     "name": "zhangy/test",
     "description": "ceshi",
     "type": "library",
-    "require-dev": {
+    "require": {
         "jormin/aliyun": "^0.0.1"
     },
     "license": "MIT",
