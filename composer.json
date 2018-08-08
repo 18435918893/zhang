@@ -3,7 +3,10 @@
     "description": "ceshi",
     "type": "library",
     "require": {
-        "jormin/aliyun": "^0.0.1"
+        "jormin/baidu-speech": "^1.0",
+        "jormin/tuling": "^1.0",
+        "jormin/ip": "^1.0",
+        "jormin/laravel-kdniao": "^1.0"
     },
     "license": "MIT",
     "authors": [
@@ -12,5 +15,9 @@
             "email": "a674836207@163.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "ZhangY\\Test\\": "src"
+        }
+    }
 }
