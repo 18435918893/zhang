@@ -1,0 +1,16 @@
+{
+    "name": "yuan/test",
+    "description": "ceshi",
+    "type": "library",
+    "require-dev": {
+        "jormin/aliyun": "^0.0.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yuan",
+            "email": "yuan@163.com"
+        }
+    ],
+    "require": {}
+}
