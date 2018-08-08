@@ -1,5 +1,5 @@
 {
-    "name": "yuan/test",
+    "name": "ZhangY/test",
     "description": "ceshi",
     "type": "library",
     "require-dev": {
@@ -8,8 +8,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Yuan",
-            "email": "yuan@163.com"
+            "name": "ZhangY",
+            "email": "a674836207@163.com"
         }
     ],
     "require": {}
